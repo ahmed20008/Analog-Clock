@@ -1,2 +1,2 @@
 # Analog-Clock
-This Analog clock is in a Web page using Html, CSS  and javascript
+I developed this Analog Clock using Html, CSS  and JavaScript.
